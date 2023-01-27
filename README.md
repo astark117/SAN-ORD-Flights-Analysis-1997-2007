@@ -1,6 +1,6 @@
 # SAN-ORD-Flights-Analysis-1997-2007
 
-##**This project is in progress and will be updated upon completion!**
+##This project is in progress and will be updated upon completion!
 
 An analysis of delays and cancellations between San Diego International and Chicago O'Hare International airports between 1997 and 2007.
 
