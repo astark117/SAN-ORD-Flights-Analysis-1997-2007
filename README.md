@@ -13,7 +13,7 @@ Reduce the average flight delay for employees travelling from SAN to ORD to unde
 Reduce the percentage of cancelled flights by 1%.
 
 Some constraints are:
-Departure and arrival airports must be located within 25 miles of San Diego and Newark offices.
+Departure and arrival airports must be located within 25 miles of San Diego and Chicago offices.
 Meetings must be held quarterly
 Flights must be direct – no layovers
 Flights must be on weekdays
