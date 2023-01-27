@@ -24,6 +24,6 @@ Key data sources are:
 - Airport code and location dataset
 - Airline code and name dataset
 
-All data sources have been uploaded as tables in a SQLite database.
+All data sources have been uploaded as tables in a SQLite database named FlightsDB.db
 
 
