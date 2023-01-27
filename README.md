@@ -9,20 +9,20 @@ ChemCorp Inc. recently moved their headquarters from San Diego, CA to Chicago, I
 The goal of this project is to analyze ways for ChemCorp adjust quarterly meeting dates and book optimized employee flights to increase on-time meeting attendance by 5% by their next quarterly meeting.
 
 To accomplish this the criteria for success is:
-Reduce the average flight delay for employees travelling from SAN to ORD to under 5 mins.
-Reduce the percentage of cancelled flights by 1%.
+- Reduce the average flight delay for employees travelling from SAN to ORD to under 5 mins.
+- Reduce the percentage of cancelled flights by 1%.
 
 Some constraints are:
-Departure and arrival airports must be located within 25 miles of San Diego and Chicago offices.
-Meetings must be held quarterly
-Flights must be direct – no layovers
-Flights must be on weekdays
+- Departure and arrival airports must be located within 25 miles of San Diego and Chicago offices.
+- Meetings must be held quarterly
+- Flights must be direct – no layovers
+- Flights must be on weekdays
 
 Key data sources are:
-1997-2007 US flights dataset
-Plane information by tailnumber dataset 
-Airport code and location dataset
-Airline code and name dataset
+- 1997-2007 US flights dataset
+- Plane information by tailnumber dataset 
+- Airport code and location dataset
+- Airline code and name dataset
 
 All data sources have been uploaded as tables in a SQLite database.
 
