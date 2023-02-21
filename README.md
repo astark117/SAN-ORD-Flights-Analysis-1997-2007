@@ -22,7 +22,8 @@ Key data sources are:
 - Airport code and location dataset
 - Airline code and name dataset
 
-All data sources have been uploaded as tables in a SQLite database named FlightsDB.db
+All data sources have been uploaded as tables in a SQLite database named FlightsDB.db. 
+
 Data was cleaned and analyzed using python in a Jupyter Notebook before being exported as CSV files.
 
 The CSV files were used to create a Tableau visualization to present to stakeholders, which you can view in my Tableau public portfolio. https://public.tableau.com/app/profile/anthony.stark3004/viz/SAN-ORDFlightAnalysis1997-2007/Story1?publish=yes
